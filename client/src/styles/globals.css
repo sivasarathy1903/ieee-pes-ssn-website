@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import "tailwindcss";
+
+/* Tailwind CSS v4 theme customizations */
+@theme {
+  /* Colors */
+  --color-office-green: #1c8b22;
+  --color-baby-powder: #f8faf8;
+  --color-mindaro: #d0ef74;
+  --color-battleship-gray: #778c8b;
+  --color-dark-green: #102512;
+
+  /* Font family */
+  --font-sans: "Poppins", "Ancizar sans", sans-serif;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  background-color: #102512;
+}
