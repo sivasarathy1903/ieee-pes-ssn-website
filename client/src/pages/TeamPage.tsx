@@ -70,7 +70,7 @@ export default function Team() {
 
   const facultyIncharge: Member = {
     role: "FACULTY INCHARGE",
-    name: "Thiyagarajan",
+    name: "Dr. V. Thiyagarajan",
     image: "/team/Thiyagarajan.jpeg",
     linkedin: null,
   };
