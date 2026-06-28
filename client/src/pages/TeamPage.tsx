@@ -63,7 +63,7 @@ export default function Team() {
     ],
     "WEB MASTER TEAM": [
       "Sivasarathy A - Head - 3rd yr CSE",
-      "Naresh - Member - 3rd yr EEE",
+      "Naresh Kumar - Member - 3rd yr EEE",
       "Shweta Mary John - Member - 2nd yr IT",
     ],
   };
